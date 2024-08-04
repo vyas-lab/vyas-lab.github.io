@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "University of Central Florida"
+  uri              : https://www.ucf.edu/
   email            : "none@example.org" 
 
   # Academic websites
