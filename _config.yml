@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Vyas lab"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Shruti Vyas"
 description              : &description "personal description"
@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Shruti Vyas"
+  name             : "Vyas-Lab"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "University of Central Florida"
-  uri              : https://www.ucf.edu/
+  uri              : "https://mse.ucf.edu/person/shrutivyas/"
   email            : "none@example.org" 
 
   # Academic websites
