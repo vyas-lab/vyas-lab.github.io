@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "shruti.JPG"
-  name             : "Vyas-Lab"
+  name             : "Shruti Vyas"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "My research interest lies at the intersection of deep learning and its application. Current focus is on applications in Material Properties, Metal recovery and Photovoltaic maintenance & recycling. We are also looking into Computer Vision problems such as Classification, Detection and Geolocalization."
+  location         : "Room 408, Engg-1, UCF main campus"
   employer         : "University of Central Florida"
   uri              : "https://mse.ucf.edu/person/shrutivyas/"
   email            : "shruti@ucf.edu" 
