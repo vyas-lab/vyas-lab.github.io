@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "shruti.png"
+  avatar           : "profile.png"
   name             : "Shruti Vyas"
   pronouns         : # example: "she/her"  
   bio              : "My research interest lies at the intersection of deep learning and its application. Current focus is on applications in Material Properties, Metal recovery and Photovoltaic maintenance & recycling. We are also looking into Computer Vision problems such as Classification, Detection and Geolocalization."
