@@ -10,7 +10,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Website for Vyas Lab
 keywords: AI, Material Science, Chemical Engineering, COmputer Vision, ML
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: logo.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://vyas-lab.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
