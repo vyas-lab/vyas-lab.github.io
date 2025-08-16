@@ -64,9 +64,9 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://vyas-lab.github.io/">Vyas-Lab</a>
+      year: 2023-now
+      description: Welcome to Vyas Labs.
 
 - title: Honors and Awards
   type: time_table
