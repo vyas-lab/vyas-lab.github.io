@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - svyas23
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - svyas23/GAMa
+  - svyas23/Bioleaching-prediction
+  - svyas23/cross-view-action
+  - abj247/pv-s3
+  - eternal-f1ame/Re-Verse
+  - iSafetyBench/data
