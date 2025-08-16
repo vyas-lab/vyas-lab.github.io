@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Assistant Professor, AI Initiative, MSE, <a href='https://www.ucf.edu/'>University of Central Florida</a>
 
 profile:
   align: right
