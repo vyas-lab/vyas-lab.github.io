@@ -27,4 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Vyas completed her doctoral degree in chemical engineering from the National University of Singapore in 2016 and her undergraduate degree from IIT Varanasi in 2009. She has three years of post-undergraduate industrial experience, working in process design and development at Engineers India Limited. She has an interdisciplinary background with research experience in chemical engineering and computer vision. Her postdoctoral work is in computer vision at the University of Central Florida (2018-2022) and focused on effective representation learning through deep learning. Her long-term vision is to utilize her expertise in machine learning and bring the benefits of AI to experimental research.
+Dr. Shruti Vyas is an interdisciplinary researcher whose work brings together chemical engineering, computer vision, and artificial intelligence to address challenges in sustainability, energy, and industrial diagnostics. She earned her Ph.D. in Chemical and Biomolecular Engineering from the National University of Singapore and her B.Tech. from IIT (BHU) Varanasi, and also spent three years in industry as a process design engineer before moving into academic research.
+
+Her postdoctoral work at the University of Central Florida focused on representation learning and visual understanding using deep learning, laying the foundation for her current research. At UCF, she leads a group developing intelligent, data-driven methods for applications such as molecular property prediction, photovoltaic defect detection and recycling, geolocalization, and industrial hazard identification.
+
+Guided by the vision of bringing the benefits of AI into experimental science, Dr. Vyas aims to accelerate discovery and create innovative solutions with meaningful real-world impact.
