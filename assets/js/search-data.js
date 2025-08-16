@@ -412,13 +412,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-joined-ucf-as-an-assistant-professor-under-ai-initiative-with-mse-department",
           title: 'Joined UCF as an Assistant Professor under AI Initiative with MSE department!',
+          description: "",
+          section: "News",},{id: "news-paper-accepted-in-engineering-applications-of-artificial-intelligence-eaai-sparkles-smile-arxiv-link-webpage-code",
+          title: 'Paper accepted in Engineering Applications of Artificial Intelligence (EAAI)! :sparkles: :smile: [Arxiv] [Link]...',
           description: "",
           section: "News",},{id: "news-three-papers-accepted-in-iccv-2025-workshops-sparkles-smile",
           title: 'Three papers accepted in ICCV 2025 Workshops! :sparkles: :smile:',
