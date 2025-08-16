@@ -6,8 +6,6 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Shruti
 middle_name: 
 last_name: Vyas
-contact_note: >
-  Feel free to message on Linkden or Email me if are want to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Website for Vyas Lab
 keywords: AI, Material Science, Chemical Engineering, COmputer Vision, ML
