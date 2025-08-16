@@ -7,7 +7,7 @@ subtitle: Assistant Professor, AI Initiative, MSE, <a href='https://www.ucf.edu/
 profile:
   align: right
   image: vyas_pic.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>408, ENG 1</p>
     <p>12800 Pegasus Dr</p>
