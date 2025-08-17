@@ -412,12 +412,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-congratulations-to-jason-and-guneet-on-wining-the-siemens-energy-event-passion-for-energy-north-america-innovation-️",
+          title: 'Congratulations to Jason and Guneet on wining the Siemens Energy event: Passion for...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_7/";
-            },},{id: "news-joined-ucf-as-an-assistant-professor-under-ai-initiative-with-mse-department",
+          section: "News",},{id: "news-joined-ucf-as-an-assistant-professor-under-ai-initiative-with-mse-department",
           title: 'Joined UCF as an Assistant Professor under AI Initiative with MSE department!',
           description: "",
           section: "News",},{id: "news-received-funding-from-siemens-energy-for-smart-sensing-multimodal-diagnostic-for-failure-detection-in-power-plant-sparkles",
