@@ -412,8 +412,22 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_7/";
             },},{id: "news-joined-ucf-as-an-assistant-professor-under-ai-initiative-with-mse-department",
           title: 'Joined UCF as an Assistant Professor under AI Initiative with MSE department!',
+          description: "",
+          section: "News",},{id: "news-received-funding-from-siemens-energy-for-smart-sensing-multimodal-diagnostic-for-failure-detection-in-power-plant-sparkles",
+          title: 'Received funding from Siemens Energy for, “Smart Sensing; Multimodal Diagnostic for Failure Detection...',
+          description: "",
+          section: "News",},{id: "news-received-funding-florida-high-tech-corridor-matching-grants-research-program-mgrp-at-ucf-for-project-smart-sensing-multimodal-diagnostic-for-failure-detection-in-power-plant-sparkles",
+          title: 'Received funding Florida High Tech Corridor Matching Grants Research Program (MGRP) at UCF...',
+          description: "",
+          section: "News",},{id: "news-congratulations-to-jahid-on-this-first-milestone-phd-qualifiers",
+          title: 'Congratulations to Jahid on this first milestone PhD qualifiers! 😃🏆',
           description: "",
           section: "News",},{id: "news-paper-accepted-in-eaai-sparkles-smile-arxiv-link-webpage-code",
           title: 'Paper accepted in EAAI! :sparkles: :smile: [Arxiv] [Link] [Webpage] [Code]',
