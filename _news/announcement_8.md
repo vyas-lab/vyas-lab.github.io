@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"SafetyBench: A video-language benchmark for safety in industrial environment" accepted in ICCV VISION'25 Workshop! :sparkles
+"SafetyBench: A video-language benchmark for safety in industrial environment" accepted in ICCV VISION'25 Workshop! :sparkles:
