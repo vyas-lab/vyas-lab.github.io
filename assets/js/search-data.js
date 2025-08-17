@@ -433,9 +433,9 @@ ninja.data = [{
           section: "News",},{id: "news-congratulations-to-jason-and-guneet-on-wining-at-the-siemens-energy-event-passion-for-energy-️",
           title: 'Congratulations to Jason and Guneet on wining at the Siemens Energy event: Passion...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-molvision",
+          title: 'MolVision',
+          description: "VLMs for Molecular Property Prediction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
