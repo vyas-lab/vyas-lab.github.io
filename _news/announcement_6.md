@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congratulations to Jahid on this first mile stone PhD qualifiers! 😃🏆
+Congratulations to Jahid on this first milestone PhD qualifiers! 😃🏆
