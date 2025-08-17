@@ -8,7 +8,7 @@ middle_name:
 last_name: Vyas
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to Vyas Labs
-keywords: AI, Material Science, Chemical Engineering, COmputer Vision, ML
+keywords: AI, Material Science, Chemical Engineering, Computer Vision, ML
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: logo.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
