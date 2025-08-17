@@ -1,5 +1,7 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Aaditya Baranwal**, PhD student [[Website](https://github.com/eternal-f1ame)]
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Aaditya is a PhD student at UCF working at the intersection of computer vision, multimodal AI, and robotics. His research focuses on developing robust and interpretable models for real-world applications, spanning areas such as foundation models, zero/few-shot learning, multimodal inference, and generative modeling.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before joining UCF, Aaditya gained industry experience at Bosch, Siemens Energy, and the startup AlphaBake, where he worked on applied machine learning and intelligent system design. These experiences shaped his ability to bridge theoretical advances with practical engineering solutions.
+
+Aaditya has also developed a range of impactful projects—from ViTLoc, a transformer-based localization system, to GEAR, an ensemble model for GAN detection, and gesture-controlled robotic platforms. His work reflects a strong blend of innovation, technical rigor, and applicability.
