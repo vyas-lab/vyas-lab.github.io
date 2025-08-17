@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: profiles
 permalink: /teaching/
 title: teaching
 description: Courses I am currently teaching at UCF.
