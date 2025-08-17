@@ -15,6 +15,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>PhD Student</p>
-      # <p>123 your address street</p>
-      # <p>Your City, State 12345</p>
+      <p>ENG 1, 12800 Pegasus Dr</p>
+      <p>Orlando, FL 32816</p>
 ---
