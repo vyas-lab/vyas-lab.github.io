@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"Re:Verse -- Can Your VLM Read a Manga?" accepted at ICCV 25 AISTORY Workshop! :sparkles
+"Re:Verse -- Can Your VLM Read a Manga?" accepted at ICCV 25 AISTORY Workshop! :sparkles:
