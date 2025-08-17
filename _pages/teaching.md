@@ -11,11 +11,11 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: egn3365.jpg
-    content: courses/egn3365.md
+    content: about_einstein.md
     image_circular: false # crops the image to make it circular
   - align: right
     image: ema4115.png
-    content: courses/ema4115.md
+    content: about_einstein.md
     image_circular: false # crops the image to make it circular
     
 ---
