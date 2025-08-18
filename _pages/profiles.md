@@ -26,7 +26,7 @@ profiles:
       <p>PhD Student</p>
       <p>ENG 1, 12800 Pegasus Dr</p>
       <p>Orlando, FL 32816</p>
----
+
   - align: right
     image: fahimul.jpg
     content: about_fahimul.md
@@ -35,7 +35,7 @@ profiles:
       <p>PhD Student</p>
       <p>ENG 1, 12800 Pegasus Dr</p>
       <p>Orlando, FL 32816</p>
----
+
   - align: right
     image: abdul.jpg
     content: about_abdul.md
@@ -44,7 +44,7 @@ profiles:
       <p>PhD Student</p>
       <p>ENG 1, 12800 Pegasus Dr</p>
       <p>Orlando, FL 32816</p>
----
+
   - align: right
     image: maximo.jpg
     content: about_maximo.md
@@ -53,7 +53,7 @@ profiles:
       <p>UG Student</p>
       <p>ENG 1, 12800 Pegasus Dr</p>
       <p>Orlando, FL 32816</p>
----
+
   - align: right
     image: jr.jpg
     content: about_jr.md
