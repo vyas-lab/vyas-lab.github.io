@@ -4,7 +4,7 @@ title: PV defect detection
 description: Defect detection in EL images of Photovoltaic modules
 img: assets/img/PV_defect.png
 importance: 2
-category: work
+category: AI
 giscus_comments: true
 ---
 More details on [Project Page]{https://pv-s3.github.io/}
