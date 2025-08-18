@@ -1,4 +1,4 @@
-**Aaditya Baranwal**, PhD student [[webpage](https://sochastic.me/)] [[Github](https://github.com/eternal-f1ame)] [[linkedin](https://linkedin.com/in/aadityabaranwal)]
+**Aaditya Baranwal**, PhD student [[webpage](https://sochastic.me/), [Github](https://github.com/eternal-f1ame), [linkedin](https://linkedin.com/in/aadityabaranwal)]
 
 Aaditya is a PhD student at UCF working at the intersection of computer vision, multimodal AI, and robotics. His research focuses on developing robust and interpretable models for real-world applications, spanning areas such as foundation models, zero/few-shot learning, multimodal inference, and generative modeling.
 
