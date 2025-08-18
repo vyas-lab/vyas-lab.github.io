@@ -2,7 +2,7 @@
 layout: page
 title: PV defect detection
 description: Defect detection in EL images of Photovoltaic modules
-img: assets/img/PV_defect.jpg
+img: assets/img/PV_defect.png
 importance: 2
 category: work
 giscus_comments: true
