@@ -17,7 +17,7 @@ profiles:
       <p>PhD Student</p>
       <p>ENG 1, 12800 Pegasus Dr</p>
       <p>Orlando, FL 32816</p>
----
+
   - align: right
     image: jahid.jpg
     content: about_jahid.md
