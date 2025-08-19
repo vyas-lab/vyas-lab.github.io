@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /teaching/
 title: teaching
-description: I have been teaching the follwing courses at UCF:
+description: I have been teaching the follwing courses at UCF-
 nav: true
 nav_order: 4
 
