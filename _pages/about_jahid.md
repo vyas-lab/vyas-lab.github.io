@@ -1,4 +1,4 @@
-**Md Jahid Hasan**, PhD student 
+**Md Jahid Hasan**, PhD student [[Linkedin](https://www.linkedin.com/in/jahidmd/)][[scholar](https://scholar.google.com/citations?user=yUM-ppQAAAAJ&hl=en)]
 
 Jahid is a PhD student at the University of Central Florida (UCF), where his research focuses on bacterial degradation of plastics to develop sustainable waste management solutions. His work integrates microbiology, materials science, and environmental engineering.
 He earned his Master’s in Mechanical Engineering from the National Taiwan University of Science and Technology (NTUST), where he investigated plasma electrolytic oxidation (PEO) coatings to improve corrosion resistance of magnesium alloys. He completed his Bachelor’s at the Bangladesh University of Engineering and Technology (BUET), studying ultrasonic technology to reduce tool wear in machining.
