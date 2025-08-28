@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some of the Current projects from our team.
 nav: true
 nav_order: 2
-display_categories: [AI]
+display_categories: [AI, all]
 horizontal: false
 ---
 
