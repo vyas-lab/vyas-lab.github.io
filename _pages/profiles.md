@@ -10,6 +10,15 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
+    image: vyas_pic.png
+    content: about.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Assistant Professor</p>
+      <p>ENG 1, 12800 Pegasus Dr</p>
+      <p>Orlando, FL 32816</p>
+      
+  - align: right
     image: baranwal.jpg
     content: about_aaditya.md
     image_circular: false # crops the image to make it circular
