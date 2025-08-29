@@ -19,6 +19,24 @@ profiles:
       <p>Orlando, FL 32816</p>
       
   - align: right
+    image: fahimul.jpg
+    content: about_fahimul.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>PhD Student</p>
+      <p>ENG 1, 12800 Pegasus Dr</p>
+      <p>Orlando, FL 32816</p>
+
+  - align: right
+    image: abdul.jpg
+    content: about_abdul.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>PhD Student</p>
+      <p>ENG 1, 12800 Pegasus Dr</p>
+      <p>Orlando, FL 32816</p>
+      
+  - align: right
     image: baranwal.jpg
     content: about_aaditya.md
     image_circular: false # crops the image to make it circular
@@ -36,23 +54,6 @@ profiles:
       <p>ENG 1, 12800 Pegasus Dr</p>
       <p>Orlando, FL 32816</p>
 
-  - align: right
-    image: fahimul.jpg
-    content: about_fahimul.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>PhD Student</p>
-      <p>ENG 1, 12800 Pegasus Dr</p>
-      <p>Orlando, FL 32816</p>
-
-  - align: right
-    image: abdul.jpg
-    content: about_abdul.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>PhD Student</p>
-      <p>ENG 1, 12800 Pegasus Dr</p>
-      <p>Orlando, FL 32816</p>
 
   - align: right
     image: maximo.jpg
