@@ -74,7 +74,7 @@ profiles:
       <p>Orlando, FL 32816</p>
 
   - align: right
-    image: jr.JPG
+    image: knight.webp
     content: about_ryn.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -83,7 +83,7 @@ profiles:
       <p>Orlando, FL 32816</p>
 
   - align: right
-    image: jr.JPG
+    image: knight.webp
     content: about_saf.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -92,7 +92,7 @@ profiles:
       <p>Orlando, FL 32816</p>
 
   - align: right
-    image: jr.JPG
+    image: knight.webp
     content: about_dgo.md
     image_circular: false # crops the image to make it circular
     more_info: >
