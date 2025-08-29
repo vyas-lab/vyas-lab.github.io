@@ -72,4 +72,31 @@ profiles:
       <p>UG Student</p>
       <p>ENG 1, 12800 Pegasus Dr</p>
       <p>Orlando, FL 32816</p>
+
+  - align: right
+    image: jr.JPG
+    content: about_ryn.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>UG Student</p>
+      <p>ENG 1, 12800 Pegasus Dr</p>
+      <p>Orlando, FL 32816</p>
+
+  - align: right
+    image: jr.JPG
+    content: about_saf.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>UG Student</p>
+      <p>ENG 1, 12800 Pegasus Dr</p>
+      <p>Orlando, FL 32816</p>
+
+  - align: right
+    image: jr.JPG
+    content: about_dgo.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>UG Student</p>
+      <p>ENG 1, 12800 Pegasus Dr</p>
+      <p>Orlando, FL 32816</p>
 ---
