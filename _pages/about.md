@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, AI Initiative, MSE, <a href='https://www.ucf.edu/'>University of Central Florida</a>
+subtitle: Assistant Professor, AI Initiative, MSE, <a href='https://mse.ucf.edu/person/shrutivyas/'>University of Central Florida</a>
 
 profile:
   align: right
