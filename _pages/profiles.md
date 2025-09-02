@@ -83,7 +83,7 @@ profiles:
       <p>Orlando, FL 32816</p>
 
   - align: right
-    image: person.png
+    image: saf.JPG
     content: about_saf.md
     image_circular: false # crops the image to make it circular
     more_info: >
