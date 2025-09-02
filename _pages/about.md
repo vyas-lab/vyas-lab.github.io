@@ -31,7 +31,14 @@ Dr. Shruti Vyas is an interdisciplinary researcher whose work brings together ch
 
 [[Google Scholar](https://scholar.google.com/citations?hl=en&user=15YqUQUAAAAJ&view_op=list_works&sortby=pubdate)] | [[Linkedin](https://www.linkedin.com/in/shruti-vyas-42605b70)] | [[Github](https://github.com/svyas23)]
 
-- align: right
+---
+layout: about
+title: about
+permalink: /
+subtitle: Research Directions
+
+profile:
+    align: right
     image: research-directions.png
     content: about_research.md
     image_circular: false # crops the image to make it circular
