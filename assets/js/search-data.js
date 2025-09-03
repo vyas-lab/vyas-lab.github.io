@@ -445,7 +445,12 @@ ninja.data = [{
           section: "News",},{id: "news-jahid-to-present-his-work-on-rare-earth-elements-at-acs-fall-2025-event",
           title: 'Jahid to present his work on Rare Earth Elements at ACS Fall 2025...',
           description: "",
-          section: "News",},{id: "projects-molvision",
+          section: "News",},{id: "projects-research-directions",
+          title: 'Research Directions',
+          description: "Artificial intelligence, Materials science, and Sustainability",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/0_project/";
+            },},{id: "projects-molvision",
           title: 'MolVision',
           description: "VLMs for Molecular Property Prediction",
           section: "Projects",handler: () => {
