@@ -4,7 +4,7 @@ title: Research Directions
 description: Artificial intelligence, Materials science, and Sustainability
 img: assets/img/research_directions.png
 importance: 1
-category: AI
+category: all
 giscus_comments: true
 ---
 
