@@ -3,7 +3,7 @@ layout: page
 title: MolVision
 description: VLMs for Molecular Property Prediction
 img: assets/img/publication_preview/molvision.png
-importance: 1
+importance: 2
 category: AI
 related_publications: true
 ---
