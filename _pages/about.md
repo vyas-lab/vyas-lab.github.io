@@ -6,7 +6,7 @@ subtitle: Vyas-lab, AI Initiative, MSE, <a href='https://mse.ucf.edu/person/shru
 
 profile:
   align: right
-  image: research-directions.png
+  image: research_directions.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>408, ENG 1</p>
