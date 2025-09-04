@@ -450,8 +450,8 @@ ninja.data = [{
           description: "Artificial intelligence, Materials science, and Sustainability",
           section: "Projects",handler: () => {
               window.location.href = "/projects/0_project/";
-            },},{id: "projects-molvision",
-          title: 'MolVision',
+            },},{id: "projects-1-molvision",
+          title: '1. MolVision',
           description: "VLMs for Molecular Property Prediction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
