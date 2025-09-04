@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Vyas-lab, AI Initiative, MSE, <a href='https://mse.ucf.edu/person/shrutivyas/'>University of Central Florida</a>
+subtitle: Vyas-lab, AI Initiative, MSE, <a href='https://mse.ucf.edu/person/shrutivyas/'>University of Central Florida</a>  <p>408, ENG 1</p>
+    <p>12800 Pegasus Dr</p>  <p>Orlando, FL 32816</p>
 
 profile:
   align: right
-  image: research_directions.png
+  image: vyas_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>408, ENG 1</p>
-    <p>12800 Pegasus Dr</p>
-    <p>Orlando, FL 32816</p>
+   <p>Shruti Vyas</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
