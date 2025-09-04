@@ -455,8 +455,8 @@ ninja.data = [{
           description: "VLMs for Molecular Property Prediction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-pv-defect-detection",
-          title: 'PV defect detection',
+            },},{id: "projects-2-pv-defect-detection",
+          title: '2. PV defect detection',
           description: "Defect detection in EL images of Photovoltaic modules",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
