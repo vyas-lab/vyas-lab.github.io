@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Vyas-lab, AI Initiative, MSE, <a href='https://mse.ucf.edu/person/shrutivyas/'>University of Central Florida</a>  <p>408, ENG 1</p>
-    <p>12800 Pegasus Dr</p>  <p>Orlando, FL 32816</p>
+subtitle: Vyas-lab, AI Initiative, MSE, <a href='https://mse.ucf.edu/person/shrutivyas/'>University of Central Florida</a>  <p>408, ENG 1, 12800 Pegasus Dr, Orlando, FL 32816</p>
 
 profile:
   align: right
