@@ -56,6 +56,14 @@ profiles:
 
 
   - align: right
+    image: person.png
+    content: about_deepan.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>UG Student</p>
+      
+      
+  - align: right
     image: maximo.jpg
     content: about_maximo.md
     image_circular: false # crops the image to make it circular
