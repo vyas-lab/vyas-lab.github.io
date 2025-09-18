@@ -445,7 +445,7 @@ ninja.data = [{
           section: "News",},{id: "news-jahid-to-present-his-work-on-rare-earth-elements-at-acs-fall-2025-event",
           title: 'Jahid to present his work on Rare Earth Elements at ACS Fall 2025...',
           description: "",
-          section: "News",},{id: "news-congratulations-to-deepan-molvision-molecular-property-prediction-with-vision-language-models-got-accepted-at-neurips-2025",
+          section: "News",},{id: "news-congratulations-to-deepan-molvision-molecular-property-prediction-with-vision-language-models-got-accepted-at-neurips-2025-arxiv-github",
           title: 'Congratulations to Deepan! “MolVision: Molecular Property Prediction with Vision Language Models” got accepted...',
           description: "",
           section: "News",},{id: "projects-research-directions",
