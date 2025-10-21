@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Geolocalization
+title: 3. Geolocalization
 description: Artificial intelligence, Vision, and GPS denied locations
 img: assets/img/research_directions.png
 importance: 4
