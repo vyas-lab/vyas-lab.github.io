@@ -463,8 +463,8 @@ ninja.data = [{
           description: "Defect detection in EL images of Photovoltaic modules",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-geolocalization",
-          title: 'Geolocalization',
+            },},{id: "projects-3-geolocalization",
+          title: '3. Geolocalization',
           description: "Artificial intelligence, Vision, and GPS denied locations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
